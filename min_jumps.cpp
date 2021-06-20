@@ -1,7 +1,3 @@
-/*
-Problem Link: https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

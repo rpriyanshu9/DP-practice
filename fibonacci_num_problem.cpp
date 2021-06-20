@@ -1,7 +1,3 @@
-/*
-Problem Link: https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1
-*/
-
 // Initial Template for C++
 #include <bits/stdc++.h>
 using namespace std;
